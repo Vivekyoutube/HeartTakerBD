@@ -1,5 +1,5 @@
 <?php
-namespace Bobydev\HeartTakerBD;
+namespace BobyDev\HeartTakerBD;
 
 use pocketmine\event\Listener;
 use pocketmine\plugin\PluginBase;
@@ -8,7 +8,7 @@ use pocketmine\event\entity\EntityDamageByEntityEvent;
 use pocketmine\player\Player;
 use pockemine\Server;
 
-class HeartTakerBD extends PluginBase implements Listener {
+class Main extends PluginBase implements Listener {
 
     private $extraHearts = [];
 
