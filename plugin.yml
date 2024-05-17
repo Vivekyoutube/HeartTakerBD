@@ -1,6 +1,6 @@
 name: HeartTakerBD
 api: 5.0.0 
 version: 1.0.0
-main: Bobydev\HeartTakerBD
-author: Bobydev 
-description: "HeartTakerBD Plugin Made By Bobydev!. "
+main: BobyDev\HeartTakerBD\Main
+author: BobyDev 
+description: "HeartTakerBD Plugin Made By BobyDev!. "
